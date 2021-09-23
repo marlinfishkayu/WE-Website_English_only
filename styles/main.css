@@ -1137,7 +1137,7 @@ button:focus {
 .lang-dropdown {
   position: absolute;
   width: 200px;
-  height: 140px;
+  height: 50px;
   top: -20px;
   right: -10px;
   z-index: 10;
@@ -3197,7 +3197,7 @@ footer {
     margin: 2em;
   }
   #slider-area .owl-dots {
-    bottom: -15%;
+    bottom: -9%;
   }
   #slider-area .owl-nav .owl-prev, #slider-area .owl-nav .owl-next {
     width: 72px;
@@ -3207,6 +3207,12 @@ footer {
     font-size: 26px;
     height: 150px;
     overflow: hidden;
+  }
+}
+
+@media (orientation: landscape) and (max-width: 991px) {
+  #slider-area .owl-dots {
+    bottom: -18%;
   }
 }
 
@@ -3256,7 +3262,7 @@ footer {
     display: none;
   }
   #slider-area .owl-dots {
-    bottom: -10%;
+    bottom: 0%;
   }
   #slider-area::after {
     height: 10px;
@@ -4590,6 +4596,9 @@ footer {
     left: 26%;
     width: 100px;
     height: 118px;
+  }
+  #GodofFortuneRoulette .live-game-main {
+    margin-top: 0rem !important;
   }
   #GodofFortuneRoulette .live-game-main #feature2 .feature-text {
     padding-top: 140px;
@@ -6116,6 +6125,9 @@ select.form-control::-ms-expand {
   #newsFeed .timeline-wrap .timeline ul li:nth-child(even):before {
     bottom: 162px;
     width: 180px;
+  }
+  #newsFeed .timeline-wrap .timeline ul li:nth-child(even) .timeline-detail {
+    left: 50px;
   }
   #newsFeed .timeline-wrap .timeline ul li:nth-child(odd):before {
     bottom: 164px;
