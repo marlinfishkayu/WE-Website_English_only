@@ -57,7 +57,7 @@ var arrLang = {
     'BlockchainDragonTiger_2': 'Dragon Tiger',
 
     //Cookie popup
-    'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
+    'Cookie_p1' : 'We use cookies to ensure you get the best experience on our website. We will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
     'Accept' : 'Accept',
     //Footer
     'WorldEnt' : 'WORLD ENTERTAINMENT.',
@@ -75,11 +75,11 @@ var arrLang = {
 
     //Services
     'Services': 'Services',
-    'Services_Slogan': 'WE are proud to offer comprehensive services.',
-    'Services_p1': 'Running a successful entertainment complex can be particularly challenging, however, WE have our own professional team driving our services, supporting us efficiently that made us stand out in the industry.',
+    'Services_Slogan': 'We are proud to offer comprehensive services.',
+    'Services_p1': 'Running a successful entertainment complex can be particularly challenging, however, We have our own professional team driving our services, supporting us efficiently that made us stand out in the industry.',
     'Services_Online_1': 'Online',
     'Services_Online_2': 'Solutions',
-    'Services_Online_p': 'With our advanced technology, WE provide various types of games, e.g. Live Games, Lotteries, Sportsbook, Slots and E-Games etc., which made us stand out in the industry.',
+    'Services_Online_p': 'With our advanced technology, We provide various types of games, e.g. Live Games, Lotteries, Sportsbook, Slots and E-Games etc., which made us stand out in the industry.',
     'Services_API_1': 'API',
     'Services_API_2': 'Integration',
     'Services_API_p': 'This API enables players to use and transmit data between various devices and current gaming platforms by data synchronization. It gives players the flexibility to play games on our platform.',

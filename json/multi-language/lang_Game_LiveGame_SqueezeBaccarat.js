@@ -73,7 +73,7 @@ var arrLang = {
       'PK10_slogan': 'Let’s PK the racing',
   
       //Cookie popup
-      'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
+      'Cookie_p1' : 'We use cookies to ensure you get the best experience on our website. We will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
       'Accept' : 'Accept',
       //Footer
       'WorldEnt' : 'WORLD ENTERTAINMENT.',

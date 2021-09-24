@@ -57,7 +57,7 @@ var arrLang = {
     'BlockchainDragonTiger_2': 'Dragon Tiger',
 
     //Cookie popup
-    'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
+    'Cookie_p1' : 'We use cookies to ensure you get the best experience on our website. We will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
     'Accept' : 'Accept',
     //Footer
     'WorldEnt' : 'WORLD ENTERTAINMENT.',
@@ -77,7 +77,7 @@ var arrLang = {
     //Live Game Studio
     'LiveGameStudio' : 'Live Studio',
     'LiveGameStudio_slogan' : 'Just the right feeling of everything. ',
-    'LiveGameStudio_p' : 'Enjoying a high-tech, high-quality, high-class gaming experience in WE. Let us bring you into the rooms.',
+    'LiveGameStudio_p' : 'Enjoying a high-tech, high-quality, high-class gaming experience here. Let us bring you into the rooms.',
     //Live room
     'Cyber' : 'Cyber',
     'ArtDeco' : 'Art Deco',
@@ -100,7 +100,7 @@ var arrLang = {
     'Highlights_h4' : 'theme rooms',
     'Highlights_p4' : 'Includes Art Deco, Chinoiserie, Cyber, Euro and Royal',
     'Highlights_h5' : 'live games',
-    'Highlights_p5' : 'WE have already prepared 10 games and several games are under development',
+    'Highlights_p5' : 'We have already prepared 10 games and several games are under development',
     'Highlights_h6' : 'resolution',
     'Highlights_p6' : '> 200 cameras deliver stunning images with the finest transmission equipment',
     'Highlights_h7' : '',

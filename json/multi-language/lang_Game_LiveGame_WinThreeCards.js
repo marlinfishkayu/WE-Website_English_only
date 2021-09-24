@@ -71,7 +71,7 @@ var arrLang = {
       'PK10_slogan': 'Let’s PK the racing',
   
       //Cookie popup
-      'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
+      'Cookie_p1' : 'We use cookies to ensure you get the best experience on our website. We will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
       'Accept' : 'Accept',
       //Footer
       'WorldEnt' : 'WORLD ENTERTAINMENT.',
@@ -96,7 +96,7 @@ var arrLang = {
       'try_our_games': 'Try Our Games',
       //
       'LiveGames':'LIVE GAMES',
-      'gameDetail_p1': 'Win Three Cards is popular in China. The principal of the game is to predict the outcome of the bet with the highest ranking corresponding to various card types. Both “Gold Dragon” and “Silver Dragon” sides will receive three cards for each round to determine the winner.',
+      'gameDetail_p1': 'Win Three Cards is popular in China. The principal of the game is to predict the outcome of the bet with the highest ranking corresponding to various card types. Both “Gold” and “Silver” sides will receive three cards for each round to determine the winner.',
       'feature_1': 'Broad betting choices',
       'feature_1_p': 'This game has a good variety of odds corresponding to each card type. Players could feel free to place the bets to win big!',
       'feature_2.1': 'Detailed game',

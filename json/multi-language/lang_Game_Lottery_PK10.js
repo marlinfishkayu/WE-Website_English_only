@@ -72,7 +72,7 @@ var arrLang = {
       'PK10_slogan': 'Let’s PK the racing',
   
       //Cookie popup
-      'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
+      'Cookie_p1' : 'We use cookies to ensure you get the best experience on our website. We will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
       'Accept' : 'Accept',
       //Footer
       'WorldEnt' : 'WORLD ENTERTAINMENT.',
@@ -103,7 +103,7 @@ var arrLang = {
       'feature_1_p': '“PK10 Racing” is well-known for its simpleness and has become one of the most famous gambling games in the world. Players are able to win more bonuses according to the ranking, big and small, sum of bets and so forth.',
       'feature_2.1': 'Everything is ',
       'feature_2.2': 'under control',
-      'feature_2_p': 'WE have organized all of the analytics in simple graphics, so players shall not be worried about that. It saves their time to make the next bet at a glance.',
+      'feature_2_p': 'We have organized all of the analytics in simple graphics, so players shall not be worried about that. It saves their time to make the next bet at a glance.',
       'feature_3.1': 'Live interaction ',
       'feature_3.2': 'with anchor',
       'feature_3_p': 'At “Live Lottery”, players might connect with the anchor and join PK10 Racing in live broadcast to build up strong engagement. ',

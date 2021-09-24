@@ -57,7 +57,7 @@ var arrLang = {
     'BlockchainDragonTiger_2': 'Dragon Tiger',
 
     //Cookie popup
-    'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
+    'Cookie_p1' : 'We use cookies to ensure you get the best experience on our website. We will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
     'Accept' : 'Accept',
     //Footer
     'WorldEnt' : 'WORLD ENTERTAINMENT.',
@@ -76,7 +76,7 @@ var arrLang = {
     //Contact Us
     'ContactUs' : 'Contact Us',
     'ContactUs_slogan' : 'Help is at hand.',
-    'ContactUs_p1' : 'We’re always happy to talk to anyone, who interested in WE.',
+    'ContactUs_p1' : 'We’re always happy to talk to anyone, who interested in us.',
     'ContactUs_p2' : 'Get in touch with us.',
     'ContactUs_p3' : '',
     'ContactUs_privacy' : 'Privacy Policy.',

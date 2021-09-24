@@ -71,7 +71,7 @@ var arrLang = {
       'PK10_slogan': 'Let’s PK the racing',
   
       //Cookie popup
-      'Cookie_p1' : 'WE use cookies to ensure you get the best experience on our website. WE will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
+      'Cookie_p1' : 'We use cookies to ensure you get the best experience on our website. We will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
       'Accept' : 'Accept',
       //Footer
       'WorldEnt' : 'WORLD ENTERTAINMENT.',
@@ -102,10 +102,10 @@ var arrLang = {
       'feature_1_p': 'Lotto 5 offers a wide range of betting choices with different odds for selection. Players can take the chances of winning bigger and enormous awards.',
       'feature_2.1': 'Customize chip',
       'feature_2.2': 'amount',
-      'feature_2_p': 'WE offer the standardized chips, but players are able to set the chip amounts in “Entertainment” mode to win more generous bonuses.',
+      'feature_2_p': 'We offer the standardized chips, but players are able to set the chip amounts in “Entertainment” mode to win more generous bonuses.',
       'feature_3.1': 'Grasp the game',
       'feature_3.2': 'tendency',
-      'feature_3_p': 'WE provide a series of statistics including comprehensive scoreboards and results. It saves the players’ preparation time before betting through displaying the trend of the game in the chart clearly.',
+      'feature_3_p': 'We provide a series of statistics including comprehensive scoreboards and results. It saves the players’ preparation time before betting through displaying the trend of the game in the chart clearly.',
     },
   
   
