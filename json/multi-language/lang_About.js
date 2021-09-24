@@ -75,7 +75,7 @@ var arrLang = {
     'error-msg':'Please enter a valid email address.',
 
     //About
-    'About' : 'About',
+    'About' : 'About Us',
     'About_h3' : 'Get to know who we are.',
     'About_p' : 'World Platinum (pti) started as a global online gaming platform and developer, presenting you a wide range of digital services and support. Getting into the spirit of “more than fun”, we aim to inspire and to stimulate our players, providing superior game experience for them. ',
     //Brand Story
