@@ -75,16 +75,16 @@ var arrLang = {
     'error-msg':'Please enter a valid email address.',
 
     //About
-    'AboutWE' : 'About',
-    'AboutWE_h3' : 'Get to know who we are.',
-    'AboutWE_p' : 'World Platinum (pti) started as a global online gaming platform and developer, presenting you a wide range of digital services and support. Getting into the spirit of “more than fun”, we aim to inspire and to stimulate our players, providing superior game experience for them. ',
+    'About' : 'About',
+    'About_h3' : 'Get to know who we are.',
+    'About_p' : 'World Platinum (pti) started as a global online gaming platform and developer, presenting you a wide range of digital services and support. Getting into the spirit of “more than fun”, we aim to inspire and to stimulate our players, providing superior game experience for them. ',
     //Brand Story
     'BrandStory' : 'Brand Story',
     'BrandStory_p1' : 'Throughout the years, the online gaming market has been facing strong competition and thus breaking user experience and interaction is our focus for product development.',
     'BrandStory_p2' : 'Our founder has tried thousands of gaming platforms and has experienced masses of live games, and hence he realized the essences of online games are innovation and people. Therefore, he created a brand new online entertainment platform - World Platinum (pti), gathered worldwide talents, in order to integrate the edgy technologies, innovatory elements, and forefront features into product designs which aspired to bring better products to our clients.',
     //WE are more than fun
     'Slogan_1' : '“We are more than fun” is the spirit of pti.',
-    'Slogan_2' : 'is the spirit of World Platinum.',
+    'Slogan_2' : 'is the spirit of  World Platinum.',
     'Slogan_p1' : 'Not only fun, we want to be extremely FUN. So, we keep being innovative, encountering the sparkle of joy, we link you up with our fascinated gaming platform and experience the unexpected journey together.',
     //MISSION, VISION & VALUES
     'Mission1' : 'Mission,',
@@ -185,9 +185,9 @@ var arrLang = {
     'error-msg':'請在輸入正確電子郵件地址',
 
     //About
-    'AboutWE' : '關於我們',
-    'AboutWE_h3' : '認識 WE，發掘「世界娛樂」',
-    'AboutWE_p' : '「世界娛樂」是國際級線上娛樂平台及遊戲開​發商，為客戶及玩家提供全方位平台運營支援及服務，我們旨在開發「比好玩．更好玩」娛樂產品，以提升刺激感、現場感為目標，不斷鑽研創新遊戲，務求為玩家帶來與眾不同遊戲體驗。',
+    'About' : '關於我們',
+    'About_h3' : '認識 WE，發掘「世界娛樂」',
+    'About_p' : '「世界娛樂」是國際級線上娛樂平台及遊戲開​發商，為客戶及玩家提供全方位平台運營支援及服務，我們旨在開發「比好玩．更好玩」娛樂產品，以提升刺激感、現場感為目標，不斷鑽研創新遊戲，務求為玩家帶來與眾不同遊戲體驗。',
     //Brand Story
     'BrandStory' : '品牌故事',
     'BrandStory_p1' : '這些年來，線上娛樂市場競爭激烈，故高質互動用戶體驗更成為發展焦點。',
@@ -292,9 +292,9 @@ var arrLang = {
     'error-msg':'请在输入正确电子邮件地址',
 
     //About
-    'AboutWE' : '关於我们',
-    'AboutWE_h3' : '认识 WE，发掘「世界娱乐」',
-    'AboutWE_p' : '「世界娱乐」是国际级线上娱乐平台及游戏开​发商，为客户及玩家提供全方位平台运营支援及服务，我们旨在开发「比好玩．更好玩」娱乐产品，以提升刺激感、现场感为目标，不断钻研创新游戏，务求为玩家带来与众不同游戏体验。',
+    'About' : '关於我们',
+    'About_h3' : '认识 WE，发掘「世界娱乐」',
+    'About_p' : '「世界娱乐」是国际级线上娱乐平台及游戏开​发商，为客户及玩家提供全方位平台运营支援及服务，我们旨在开发「比好玩．更好玩」娱乐产品，以提升刺激感、现场感为目标，不断钻研创新游戏，务求为玩家带来与众不同游戏体验。',
     //Brand Story
     'BrandStory' : '品牌故事',
     'BrandStory_p1' : '这些年来，线上娱乐市场竞争激烈，故高质互动用户体验更成为发展焦点。',

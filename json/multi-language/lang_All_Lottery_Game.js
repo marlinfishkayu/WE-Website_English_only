@@ -305,7 +305,7 @@ var arrImg = {
       //PK10 Logo
       'PK10_icon': 'images/icon/en/game_icon_PK10.svg',
       //UI
-      'lottery_game_logo': './images/index/en/col2_expand-icon.svg',
+      'lottery_game_logo': './images/all_lottery_game/en/live_game_logo_x1.png, ./images/all_lottery_game/en/live_game_logo_x2.png',
     }],
   'TC': [{
       //WE Logo
