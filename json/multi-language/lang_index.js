@@ -427,7 +427,7 @@ var arrLang = {
 var arrImg = {
   'EN': [{
       //WE Logo
-      'WE_logo': 'images/icon/en/logo.svg',
+      'Company_logo': 'images/icon/en/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/en/all_live_games_btn.svg',
       //all lotteries
@@ -452,7 +452,7 @@ var arrImg = {
     }],
   'TC': [{
       //WE Logo
-      'WE_logo': 'images/icon/tc/logo.svg',
+      'Company_logo': 'images/icon/tc/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/tc/allgames.svg',
       //all lotteries
@@ -476,7 +476,7 @@ var arrImg = {
     }],
   'SC': [{
       //WE Logo
-      'WE_logo': 'images/icon/sc/logo.svg',
+      'Company_logo': 'images/icon/sc/logo.svg',
       //all live game
       'AllLiveGameBtn':'./images/menu/allBtn/sc/allgames.svg',
       //all lotteries
