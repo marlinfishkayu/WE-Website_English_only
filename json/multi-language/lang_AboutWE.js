@@ -2,7 +2,7 @@ var arrLang = {
   'EN': {
     //navbar
     'current-lang': 'En',
-    'nav_About': 'About WE',
+    'nav_About': 'About',
     'nav_LiveGames': 'Games',
     'nav_LiveStudio': 'Live Studio',
     'nav_Services': 'Services',
@@ -74,8 +74,8 @@ var arrLang = {
     'input_email':'Please enter your email address here',
     'error-msg':'Please enter a valid email address.',
 
-    //About WE
-    'AboutWE' : 'About we',
+    //About
+    'AboutWE' : 'About',
     'AboutWE_h3' : 'Get to know who we are.',
     'AboutWE_p' : 'World Platinum (pti) started as a global online gaming platform and developer, presenting you a wide range of digital services and support. Getting into the spirit of “more than fun”, we aim to inspire and to stimulate our players, providing superior game experience for them. ',
     //Brand Story
@@ -184,7 +184,7 @@ var arrLang = {
     'input_email':'請在此處輸入你的電子郵件地址',
     'error-msg':'請在輸入正確電子郵件地址',
 
-    //About WE
+    //About
     'AboutWE' : '關於我們',
     'AboutWE_h3' : '認識 WE，發掘「世界娛樂」',
     'AboutWE_p' : '「世界娛樂」是國際級線上娛樂平台及遊戲開​發商，為客戶及玩家提供全方位平台運營支援及服務，我們旨在開發「比好玩．更好玩」娛樂產品，以提升刺激感、現場感為目標，不斷鑽研創新遊戲，務求為玩家帶來與眾不同遊戲體驗。',
@@ -291,7 +291,7 @@ var arrLang = {
     'input_email':'请在此处输入你的电子邮件地址',
     'error-msg':'请在输入正确电子邮件地址',
 
-    //About WE
+    //About
     'AboutWE' : '关於我们',
     'AboutWE_h3' : '认识 WE，发掘「世界娱乐」',
     'AboutWE_p' : '「世界娱乐」是国际级线上娱乐平台及游戏开​发商，为客户及玩家提供全方位平台运营支援及服务，我们旨在开发「比好玩．更好玩」娱乐产品，以提升刺激感、现场感为目标，不断钻研创新游戏，务求为玩家带来与众不同游戏体验。',
