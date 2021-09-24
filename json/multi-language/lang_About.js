@@ -84,7 +84,7 @@ var arrLang = {
     'BrandStory_p2' : 'Our founder has tried thousands of gaming platforms and has experienced masses of live games, and hence he realized the essences of online games are innovation and people. Therefore, he created a brand new online entertainment platform - World Platinum (pti), gathered worldwide talents, in order to integrate the edgy technologies, innovatory elements, and forefront features into product designs which aspired to bring better products to our clients.',
     //WE are more than fun
     'Slogan_1' : '“We are more than fun” is the spirit of pti.',
-    'Slogan_2' : 'is the spirit of  World Entertainment.',
+    'Slogan_2' : 'is the spirit of World Platinum.',
     'Slogan_p1' : 'Not only fun, we want to be extremely FUN. So, we keep being innovative, encountering the sparkle of joy, we link you up with our fascinated gaming platform and experience the unexpected journey together.',
     //MISSION, VISION & VALUES
     'Mission1' : 'Mission,',
