@@ -74,7 +74,7 @@ var arrLang = {
       'Cookie_p1' : 'We use cookies to ensure you get the best experience on our website. We will assume you have agreed to our Privacy Policy by continuing to use our website henceforth.',
       'Accept' : 'Accept',
       //Footer
-      'WorldEnt' : 'WORLD ENTERTAINMENT.',
+      'company' : 'World Platinum Technologies Inc.',
       'Subscribe' : 'Subscribe',
       'Subscribe_btn' : 'Subscribe Now',
       'Subscribe_p' : 'Be the first to know about our latest news and exclusive offers from WE.',

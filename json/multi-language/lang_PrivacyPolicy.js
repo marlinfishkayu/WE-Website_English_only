@@ -2,8 +2,8 @@ var arrLang = {
   'EN': {
     //Privacy Policy
     'PrivacyPolicy': 'Privacy Policy',
-    'PrivacyPolicy_World': 'World Entertainment Respects Your Privacy ',
-    'PrivacyPolicy_World_p': "It is our policy to always secure your privacy when you visit worldent.com or any of the other World Entertainment websites (each a 'Site'). Please read our policy statement to understand how we collect your information and how it will be used.",
+    'PrivacyPolicy_World': 'World Platinum (pti) Respects Your Privacy ',
+    'PrivacyPolicy_World_p': "It is our policy to always secure your privacy when you visit World Platinum websites (each a 'Site'). Please read our policy statement to understand how we collect your information and how it will be used.",
     //Info
     'PrivacyPolicy_Info': 'Information Collection',
     'PrivacyPolicy_Info_p1': 'The information related to your use of the Site is automatically tracked while you are on the Site.',
@@ -34,23 +34,23 @@ var arrLang = {
     'PrivacyPolicy_Personal_p2_li_2': "- Address",
     'PrivacyPolicy_Personal_p2_li_3': "- Telephone number(s)",
     'PrivacyPolicy_Personal_p2_li_4': "- E-mail address",
-    //HOW WORLD ENTERTAINMENT USES INFORMATION COLLECTED
-    'PrivacyPolicy_How_p1': "How World Entertainment uses information collected",
-    'PrivacyPolicy_How_p2': "World Entertainment uses the information we collect on the Site to:",
+    //HOW World Platinum USES INFORMATION COLLECTED
+    'PrivacyPolicy_How_p1': "How World Platinum uses information collected",
+    'PrivacyPolicy_How_p2': "World Platinum uses the information we collect on the Site to:",
     'PrivacyPolicy_How_p2_li_1': "- Improve our ability to support your requests and inquiries",
-    'PrivacyPolicy_How_p2_li_2': "- Contact you in relation to our products or services, industry events where you can meet us, World Entertainment hosted events invitations that you may be interested in from time to time.",
+    'PrivacyPolicy_How_p2_li_2': "- Contact you in relation to our products or services, industry events where you can meet us, World Platinum hosted events invitations that you",
     'PrivacyPolicy_How_p2_li_3': "- Carry out certain profiling of you and your activity",
     'PrivacyPolicy_How_p2_li_4': "- Improve our marketing and promotional efforts",
     'PrivacyPolicy_How_p2_li_5': "- Statistically analyse usage of our Site",
     'PrivacyPolicy_How_p2_li_6': "- Improve our content on the Sites",
     'PrivacyPolicy_How_p2_li_7': "- Customise the content and layout of the Site",
-    'PrivacyPolicy_How_p3': "In regards to the information we collect when you email us, we may use your email address to contact and/or reply to your comments and concerns. Your communication and our replies may be stored in case of a future correspondence. Your email address will not be shared with anyone outside the company. If you wished for your name to be removed from World Entertainment’s mailing list, please send your request to",
+    'PrivacyPolicy_How_p3': "In regards to the information we collect when you email us, we may use your email address to contact and/or reply to your comments and concerns. Your communication and our replies may be stored in case of a future correspondence. Your email address will not be shared with anyone outside the company. If you wished for your name to be removed from World Platinum’s mailing list, please send your request to",
     //Privacy Policy
     'PrivacyPolicy_Privacy': "Privacy Policy",
-    'PrivacyPolicy_Privacy_p': "Reasonable measures of security have been implemented by World Entertainment to ensure the confidentiality of information is protected. Only authorised personnel are allowed access to such information.",
+    'PrivacyPolicy_Privacy_p': "Reasonable measures of security have been implemented by World Platinum to ensure the confidentiality of information is protected. Only authorised personnel are allowed access to such information.",
     //Third Party Disclosure
     'PrivacyPolicy_Third': "Third Party Disclosure",
-    'PrivacyPolicy_Third_p1': "Any identifiable information pertaining to you will not be shared or disclosed to others. However, World Entertainment reserves the right to share this information when we have reason to identify, contact or bring legal action against someone who may be interfering with (either intentionally or unintentionally) World Entertainment's rights or property, other users or anyone else that could be harmed by such activities. At our discretion, World Entertainment will cooperate with law enforcement agencies and disclose information when the below situation occurs:",
+    'PrivacyPolicy_Third_p1': "Any identifiable information pertaining to you will not be shared or disclosed to others. However, World Platinum reserves the right to share this information when we have reason to identify, contact or bring legal action against someone who may be interfering with (either intentionally or unintentionally) World Platinum's rights or property, other users or anyone else that could be harmed by such activities. At our discretion, World Platinum will cooperate with law enforcement agencies and disclose information when the below situation occurs:",
     'PrivacyPolicy_Third_li_1': "- To identify those who use our site for illegal activities",
     'PrivacyPolicy_Third_li_2': "- When required by the law",
     'PrivacyPolicy_Third_li_3': "- Protect ourselves from legal liability",
@@ -60,10 +60,10 @@ var arrLang = {
     'PrivacyPolicy_Security_p1': "To keep your order information secure, our website are secured with industry standard security encryption protocols.",
     //Third Party Sites
     'PrivacyPolicy_ThirdSite': "Third Party Sites",
-    'PrivacyPolicy_ThirdSite_p': "World Entertainment is only responsible to control the use and disclosure of information we collect on this site. The privacy of other sites or third parties to whom you may link from our site is not covered in this policy.",
+    'PrivacyPolicy_ThirdSite_p': "World Platinum is only responsible to control the use and disclosure of information we collect on this site. The privacy of other sites or third parties to whom you may link from our site is not covered in this policy.",
     //General
     'PrivacyPolicy_General': "General",
-    'PrivacyPolicy_General_p': "World Entertainment reserves the right to change this Privacy Policy based on World Entertainment Terms and Conditions of Use. Changes in the policy will be posted to this page as soon as reasonably possible and its changes will become effective immediately. Therefore, it is advisable to periodically check this page for any changes. By using the Site, you have automatically given consent for World Entertainment to use your information in accordance to the Privacy Policy then in effect.",
+    'PrivacyPolicy_General_p': "World Platinum reserves the right to change this Privacy Policy based on World Platinum Terms and Conditions of Use. Changes in the policy will be posted to this page as soon as reasonably possible and its changes will become effective immediately. Therefore, it is advisable to periodically check this page for any changes. By using the Site, you have automatically given consent for World Platinum to use your information in accordance to the Privacy Policy then in effect.",
 
     
   },
@@ -105,7 +105,7 @@ var arrLang = {
     'PrivacyPolicy_Personal_p2_li_2': "- 地址",
     'PrivacyPolicy_Personal_p2_li_3': "- 電話號碼",
     'PrivacyPolicy_Personal_p2_li_4': "- 電子郵件地址",
-    //HOW WORLD ENTERTAINMENT USES INFORMATION COLLECTED
+    //HOW World Platinum USES INFORMATION COLLECTED
     'PrivacyPolicy_How_p1': "世界娛樂如何使用信息",
     'PrivacyPolicy_How_p2': "世界娛樂網站上所收集的信息用作下列用途：",
     'PrivacyPolicy_How_p2_li_1': "- 改善任何請求和查詢服務能力；",
@@ -174,7 +174,7 @@ var arrLang = {
     'PrivacyPolicy_Personal_p2_li_2': "- 地址",
     'PrivacyPolicy_Personal_p2_li_3': "- 电话号码",
     'PrivacyPolicy_Personal_p2_li_4': "- 电子邮件地址",
-    //HOW WORLD ENTERTAINMENT USES INFORMATION COLLECTED
+    //HOW World Platinum USES INFORMATION COLLECTED
     'PrivacyPolicy_How_p1': "世界娱乐如何使用信息",
     'PrivacyPolicy_How_p2': "世界娱乐网站上所收集的信息用作下列用途：",
     'PrivacyPolicy_How_p2_li_1': "- 改善任何请求和查询服务能力；",
