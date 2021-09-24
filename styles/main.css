@@ -4535,6 +4535,9 @@ footer {
   .live-game-main .feature-flexbox img {
     width: 400px;
   }
+  .live-game-main .feature-flexbox .feature-flexbox-h2 {
+    font-size: 36px;
+  }
   .live-game-main .game-UI {
     width: 100%;
     height: 100%;
@@ -4553,9 +4556,6 @@ footer {
     z-index: 10;
     height: 236px;
     z-index: -1;
-  }
-  .feature-flexbox .feature-flexbox-h2 {
-    font-size: 36px;
   }
   #SqueezeBaccarat .hero-header, .live-game-main {
     margin-bottom: 1rem;
