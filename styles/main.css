@@ -3532,7 +3532,7 @@ footer {
   top: 10%;
 }
 
-.WE-diamond-bkg {
+.diamond-bkg {
   position: absolute;
   top: 0;
   left: 0;
@@ -3544,7 +3544,7 @@ footer {
   background-image: url("../images/index/we_diamond_pattern_x2.jpg");
 }
 
-.WE-diamond-bkg:after {
+.diamond-bkg:after {
   position: absolute;
   content: "";
   bottom: 0;
@@ -7547,6 +7547,9 @@ select.form-control::-ms-expand {
 
 #allLiveGame .allLiveGame-main .game-column {
   position: relative;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 #allLiveGame .allLiveGame-main .game-column .col-12 {
