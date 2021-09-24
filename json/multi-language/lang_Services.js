@@ -2,7 +2,7 @@ var arrLang = {
   'EN': {
     //navbar
     'current-lang': 'En',
-    'nav_About': 'About',
+    'nav_About': 'About Us',
     'nav_LiveGames': 'Games',
     'nav_LiveStudio': 'Live Studio',
     'nav_Services': 'Services',
@@ -79,7 +79,7 @@ var arrLang = {
     'Services_p1': 'Running a successful entertainment complex can be particularly challenging, however, We have our own professional team driving our services, supporting us efficiently that made us stand out in the industry.',
     'Services_Online_1': 'Online',
     'Services_Online_2': 'Solutions',
-    'Services_Online_p': 'With our advanced technology, We provide various types of games, e.g. Live Games, Lotteries, Sportsbook, Slots and E-Games etc., which made us stand out in the industry.',
+    'Services_Online_p': 'With our advanced technology, We provide various types of games, e.g. Live Games, Lotteries, which made us stand out in the industry.',
     'Services_API_1': 'API',
     'Services_API_2': 'Integration',
     'Services_API_p': 'This API enables players to use and transmit data between various devices and current gaming platforms by data synchronization. It gives players the flexibility to play games on our platform.',

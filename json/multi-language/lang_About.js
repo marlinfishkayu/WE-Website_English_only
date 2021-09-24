@@ -2,7 +2,7 @@ var arrLang = {
   'EN': {
     //navbar
     'current-lang': 'En',
-    'nav_About': 'About',
+    'nav_About': 'About Us',
     'nav_LiveGames': 'Games',
     'nav_LiveStudio': 'Live Studio',
     'nav_Services': 'Services',
