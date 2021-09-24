@@ -58,7 +58,7 @@ var arrLang = {
 
 
       //Game Slogan
-      'Baccarat_slogan': 'WE play beyond classic.',
+      'Baccarat_slogan': 'We play beyond classic.',
       'Roulette_slogan': 'Ultimate European classic.',
       'SicBo_slogan': 'An unparalleled game of chance.',
       'DragonTiger_slogan': 'The perfect game for quick players.',
@@ -99,7 +99,7 @@ var arrLang = {
       'LiveGames':'LIVE GAMES',
       'gameDetail_p1':'The God of Fortune Roulette is based on the traditional Roulette. Moreover, it is well blended with the Chinese traditional elements which has turned it into an unequalled game type that shocks everyone. Come and play the game now to find out more amazement. ',
       'feature_1': "Look! It's so fascinating!",
-      'feature_1_p': 'WE meticulously designed the God of Fortune series by combining the traditional Chinese character "God of Fortune" and Hip Hop elements to create this unique iconic character. "God of Fortune"  is so talented that amazed everyone. Do not miss out! ',
+      'feature_1_p': 'We meticulously designed the God of Fortune series by combining the traditional Chinese character "God of Fortune" and Hip Hop elements to create this unique iconic character. "God of Fortune"  is so talented that amazed everyone. Do not miss out!',
       'feature_2': 'The best audio-visual practices',
       'feature_2_p': 'Incorporated extraordinary audio-visual elements into God of Fortune Roulette. This game provides well-prepared attractive random odds to excite our players.',
       'feature_3': 'Lucky draw',

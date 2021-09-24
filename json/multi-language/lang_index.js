@@ -57,7 +57,7 @@ var arrLang = {
       'BlockchainDragonTiger_2': 'Dragon Tiger',
 
       //Game Slogan
-      'Baccarat_slogan': 'WE play beyond classic.',
+      'Baccarat_slogan': 'We play beyond classic.',
       'Roulette_slogan': 'Big win on European classic.',
       'SicBo_slogan': 'An unparalleled game of chance.',
       'DragonTiger_slogan': 'The perfect game for quick players.',
@@ -104,7 +104,7 @@ var arrLang = {
       //index_section2_hotpicks
       'index_sect2_HotPicks': 'HOT PICKS',
       'index_sect2_h2': 'Our hottest online game.',
-      'index_sect2_p': 'WE carefully select our most popular game for you.',
+      'index_sect2_p': 'We carefully select our most popular game for you.',
       'index_sect2_LiveGame': 'LIVE GAMES ',
       'index_sect2_LotteryGame': 'LOTTERIES',
       //GodofFortune_sp
@@ -112,7 +112,7 @@ var arrLang = {
       'SicBo_sp':'Sic Bo',
       
       //index_section2 Live Game Carousel
-      'index_sect2_col_1_p': 'WE play beyond classic.',
+      'index_sect2_col_1_p': 'We play beyond classic.',
       'index_sect2_col_2_p': 'Big win on European classic.',
       'index_sect2_col_3_p': 'An unparalleled game of chance.',
       'index_sect2_col_4_p': 'The perfect game for quick Players.',

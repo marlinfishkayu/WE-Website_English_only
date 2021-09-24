@@ -57,7 +57,7 @@ var arrLang = {
       'BlockchainDragonTiger_2': 'Dragon Tiger',
 
       //Game Slogan
-      'Baccarat_slogan': 'WE play beyond classic.',
+      'Baccarat_slogan': 'We play beyond classic.',
       'Roulette_slogan': 'Ultimate European classic.',
       'SicBo_slogan': 'An unparalleled game of chance.',
       'DragonTiger_slogan': 'The perfect game for quick players.',
@@ -105,7 +105,7 @@ var arrLang = {
       'feature_2_p': 'Players can enjoy flexible betting options for Roulette. They can bet on the “Central Roulette Platform” or can use the “Roulette Racetrack”. Players are able to bet on any no. and place multiple bets in a short time.',
       'feature_3.1': 'Hot and ',
       'feature_3.2': 'Cold no.',
-      'feature_3_p': 'WE specially displayed 5 "Hot/Cold" no. that appears the most frequently and the least frequently no. in the last 100 rounds, that allows players to make predictions and to place bets easily.',
+      'feature_3_p': 'We specially displayed 5 "Hot/Cold" no. that appears the most frequently and the least frequently no. in the last 100 rounds, that allows players to make predictions and to place bets easily.',
     },
   
   

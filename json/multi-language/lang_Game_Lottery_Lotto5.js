@@ -57,7 +57,7 @@ var arrLang = {
       'BlockchainDragonTiger_2': 'Dragon Tiger',
 
       //Game Slogan
-      'Baccarat_slogan': 'WE play beyond classic.',
+      'Baccarat_slogan': 'We play beyond classic.',
       'Roulette_slogan': 'Ultimate European classic.',
       'SicBo_slogan': 'An unparalleled game of chance.',
       'DragonTiger_slogan': 'The perfect game for quick players.',

@@ -1099,7 +1099,7 @@ button:focus {
 }
 
 .nav-logo {
-  width: 110px;
+  width: 88px;
   -webkit-transition: 0.5s all;
   transition: 0.5s all;
 }
@@ -2092,10 +2092,6 @@ footer {
           box-shadow: transparent;
 }
 
-.main-footer .footer-bottom {
-  margin-top: 50px;
-}
-
 .main-footer .footer-bottom .footer-logo {
   display: block;
   width: 150px;
@@ -2127,68 +2123,6 @@ footer {
 
 .subscribe-wrap {
   max-width: 400px;
-}
-
-.footer-subscribe .btn {
-  position: relative;
-}
-
-.footer-subscribe .btn:after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: #0c3c7d;
-  z-index: -1;
-  -webkit-transform: scaleX(0);
-          transform: scaleX(0);
-  -webkit-transform-origin: left;
-          transform-origin: left;
-  -webkit-transition: all 200ms ease-out;
-  transition: all 200ms ease-out;
-}
-
-/* Mailchimp CSS */
-#EmailSubscribe #mc_embed_signup div.mce_inline_error {
-  color: #EE2E2E !important;
-  font-size: 16px;
-  font-weight: 100;
-  font-family: "Barlow Light", sans-serif, Arial, Helvetica;
-  background-color: transparent !important;
-  padding: 5px 0;
-  padding-bottom: 0px;
-}
-
-#EmailSubscribe .mc-field-group input {
-  color: #fff !important;
-}
-
-#EmailSubscribe .enquiryBtn {
-  margin-top: 20px;
-  padding: 0;
-}
-
-#EmailSubscribe .enquiry-button {
-  padding: 0;
-  margin-top: 5px;
-  width: 100%;
-}
-
-#myerror {
-  display: none;
-  text-align: center;
-  color: #EE2E2E !important;
-  font-size: 16px;
-  font-weight: 100;
-  background-color: transparent !important;
-  padding: 0px;
-  margin-top: -5px;
-}
-
-#myerror.show-error {
-  display: block;
 }
 
 @media (min-width: 576px) {
@@ -4609,7 +4543,7 @@ footer {
 }
 
 #ContactUs {
-  min-height: 85vh;
+  min-height: 90vh;
 }
 
 #ContactUs .contact-main {

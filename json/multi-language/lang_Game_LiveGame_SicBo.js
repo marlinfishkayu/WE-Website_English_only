@@ -57,7 +57,7 @@ var arrLang = {
       'BlockchainDragonTiger_2': 'Dragon Tiger',
 
       //Game Slogan
-      'Baccarat_slogan': 'WE play beyond classic.',
+      'Baccarat_slogan': 'We play beyond classic.',
       'Roulette_slogan': 'Ultimate European classic.',
       'SicBo_slogan': 'An unparalleled game of chance.',
       'DragonTiger_slogan': 'The perfect game for quick players.',
@@ -104,7 +104,7 @@ var arrLang = {
       'feature_2.2': 'game statistics',
       'feature_2_p': 'To allow players to better grasp the game tendency, Sic Bo specially displays the records of "Even/Odd", "Big/Small" and the "Sum" in the past multiple rounds, and sets "Big/Small/Specific Triple" and "Even/Odd/Specific Triple". It makes the game more predictable.',
       'feature_3': 'Legible game record',
-      'feature_3_p': 'Many players pay much attention to the scoreboard before placing their bet, therefore, WE introduce different modes of scoreboards, “Professional”, “Standard” and “Simple” selections to the players.',
+      'feature_3_p': 'Many players pay much attention to the scoreboard before placing their bet, therefore, we introduce different modes of scoreboards, “Professional”, “Ordinary” and “Simplified” selections to the players.',
     },
   
   

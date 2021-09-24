@@ -57,7 +57,7 @@ var arrLang = {
       'BlockchainDragonTiger_2': 'Dragon Tiger',
 
       //Game Slogan
-      'Baccarat_slogan': 'WE play beyond classic.',
+      'Baccarat_slogan': 'We play beyond classic.',
       'Roulette_slogan': 'Ultimate European classic.',
       'SicBo_slogan': 'An unparalleled game of chance.',
       'DragonTiger_slogan': 'The perfect game for quick players.',
@@ -96,16 +96,16 @@ var arrLang = {
       'try_our_games': 'Try Our Games',
       //
       'LiveGames':'LIVE GAMES',
-      'gameDetail_p1':'Mahjong Lucky Wheel is a unique game of WE. To differentiate ourselves from most of the gaming platforms in the market, WE integrated "Mahjong", a Chinese traditional game into our game of lucky wheel.  With the combination of simple rules and high level of excitement, WE believe that players will gain a whole new perspective in their understanding of “Mahjong”.',
+      'gameDetail_p1':'Mahjong Lucky Wheel is a unique game of we. To differentiate ourselves from most of the gaming platforms in the market, we integrated "Mahjong", a Chinese traditional game into our game of lucky wheel.  With the combination of simple rules and high level of excitement, we believe that players will gain a whole new perspective in their understanding of “Mahjong”.',
       'feature_1.1': 'A whole',
       'feature_1.2': 'new look',
-      'feature_1_p': 'Breaking through the classic design of the Lucky Wheel, WE introduced Chinese Mahjong elements into the game, artfully combining modern and traditional styles to create an exceptional design, and the players can win big with high odds.',
+      'feature_1_p': 'Breaking through the classic design of the Lucky Wheel, we introduced Chinese Mahjong elements into the game, artfully combining modern and traditional styles to create an exceptional design, and the players can win big with high odds.',
       'feature_2.1': 'Revealing the ',
       'feature_2.2': 'game result instantly',
       'feature_2_p': 'It is such an immersive game experience with Mahjong Lucky Wheel. The professional hosts will control the lucky wheel on the spot, and reveal the game results instantly. That’s exciting!',
       'feature_3.1': 'Showing the',
       'feature_3.2': 'most updated data',
-      'feature_3_p': 'In addition to detailed scoreboards, WE also provide "Instant Bets Tendency", which clearly displays the real-time betting volume of each betting option, allowing players to grasp the latest trend!',
+      'feature_3_p': 'In addition to detailed scoreboards, we also provide "Instant Bets Tendency", which clearly displays the real-time betting volume of each betting option, allowing players to grasp the latest trend!',
     },
   
   

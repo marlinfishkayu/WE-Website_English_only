@@ -75,28 +75,28 @@ var arrLang = {
     'error-msg':'Please enter a valid email address.',
 
     //About WE
-    'AboutWE' : 'About WE',
-    'AboutWE_h3' : 'Get to know who WE are.',
-    'AboutWE_p' : 'World Entertainment (WE) started as a global online gaming platform and developer, presenting you a wide range of digital services and support. Getting into the spirit of “more than fun”, WE aim to inspire and to stimulate our players, providing superior game experience for them.',
+    'AboutWE' : 'About we',
+    'AboutWE_h3' : 'Get to know who we are.',
+    'AboutWE_p' : 'World Platinum (pti) started as a global online gaming platform and developer, presenting you a wide range of digital services and support. Getting into the spirit of “more than fun”, we aim to inspire and to stimulate our players, providing superior game experience for them. ',
     //Brand Story
     'BrandStory' : 'Brand Story',
     'BrandStory_p1' : 'Throughout the years, the online gaming market has been facing strong competition and thus breaking user experience and interaction is our focus for product development.',
-    'BrandStory_p2' : 'Our founder has tried thousands of gaming platforms and has experienced masses of live games, and hence he realized the essences of online games are innovation and people. Therefore, he created a brand new online entertainment platform-World Entertainment (WE), gathered worldwide talents, in order to integrate the edgy technologies, innovatory elements, and forefront features into product designs which aspired to bring better products to our clients.',
+    'BrandStory_p2' : 'Our founder has tried thousands of gaming platforms and has experienced masses of live games, and hence he realized the essences of online games are innovation and people. Therefore, he created a brand new online entertainment platform - World Platinum (pti), gathered worldwide talents, in order to integrate the edgy technologies, innovatory elements, and forefront features into product designs which aspired to bring better products to our clients.',
     //WE are more than fun
-    'Slogan_1' : '"WE are more than fun”',
+    'Slogan_1' : '“We are more than fun” is the spirit of pti.',
     'Slogan_2' : 'is the spirit of  World Entertainment.',
-    'Slogan_p1' : 'Not only fun, WE want to be extremely FUN. So, we keep being innovative, encountering the sparkle of joy, WE link you up with our fascinated gaming platform and experience the unexpected journey together. ',
+    'Slogan_p1' : 'Not only fun, we want to be extremely FUN. So, we keep being innovative, encountering the sparkle of joy, we link you up with our fascinated gaming platform and experience the unexpected journey together.',
     //MISSION, VISION & VALUES
     'Mission1' : 'Mission,',
     'Mission2' : 'Vision &',
     'Mission3' : 'Values',
     'Mission_p1' : 'Our mission is to further evolve a wide range of online gaming products and services, and to enhance the gaming experience of online platforms. Our vision is to become one of the world’s most influential online gaming platforms and gaming developers. Our culture is rooted in our corporate values:',
     'Innovation' : 'INNOVATION',
-    'Innovation_p1' : 'WE are utterly committed to do something new as WE believe creativity is unlimited. WE transform imagination into practical solution by using cutting-edge technology all the way round.',
+    'Innovation_p1' : 'We are utterly committed to do something new as we believe creativity is unlimited. We transform imagination into practical solution by using cutting-edge technology all the way round.',
     'Experience' : 'EXPERIENCE',
-    'Experience_p1' : 'Provide high-quality user experience through continuous testing, WE assure to try our best and to present our ultimate version of our platform with extraordinary surprises.',
+    'Experience_p1' : 'Provide high-quality user experience through continuous testing, we assure to try our best and to present our ultimate version of our platform with extraordinary surprises.',
     'Diversification' : 'DIVERSIFICATION',
-    'Diversification_p1' : 'Recognised diversification is the key to build a successful entertainment industry. WE develop multiple-choice games to please various players in every part of the world, so as to maximize levels of excitement.',
+    'Diversification_p1' : 'Recognised diversification is the key to build a successful entertainment industry. We develop multiple-choice games to please various players in every part of the world, so as to maximize levels of excitement.',
     //RELIABLE. RESPONSIBLE. CREDIBLE
     'Reliable' : 'Reliable.',
     'Responsible' : 'Responsible.',
