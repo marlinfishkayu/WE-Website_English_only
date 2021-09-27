@@ -94,7 +94,7 @@ var arrLang = {
     'Highlights_h1' : 'km',
     'Highlights_p1' : 'From the Manila Ninoy Aquino International Airport',
     'Highlights_h2' : 'sq.m',
-    'Highlights_p2' : 'Double layers studio',
+    'Highlights_p2' : 'Enormous studio in the Philippines',
     'Highlights_h3' : 'tables',
     'Highlights_p3' : 'Includes >  50 traditional tables',
     'Highlights_h4' : 'theme rooms',
