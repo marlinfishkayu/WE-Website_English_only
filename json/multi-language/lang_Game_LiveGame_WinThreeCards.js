@@ -96,7 +96,7 @@ var arrLang = {
       'try_our_games': 'Try Our Games',
       //
       'LiveGames':'LIVE GAMES',
-      'gameDetail_p1': 'Win Three Cards is popular in China. The principal of the game is to predict the outcome of the bet with the highest ranking corresponding to various card types. Both “Gold” and “Silver” sides will receive three cards for each round to determine the winner.',
+      'gameDetail_p1': 'Win Three Cards is popular in China. The principal of the game is to predict the outcome of the bet with the highest ranking corresponding to various card types. Both “Dragon” and “Phoenix” sides will receive three cards for each round to determine the winner.',
       'feature_1': 'Broad betting choices',
       'feature_1_p': 'This game has a good variety of odds corresponding to each card type. Players could feel free to place the bets to win big!',
       'feature_2.1': 'Detailed game',
