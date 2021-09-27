@@ -106,7 +106,7 @@ var arrLang = {
     'Highlights_h7' : '',
     'Highlights_p7' : 'Dealers, pitbosses, shufflers supporting 24/7 live streaming',
     'Highlights_h8' : 'languages',
-    'Highlights_p8' : 'Serve multinational players from anywhere',
+    'Highlights_p8' : 'Serving multinational players from anywhere in the future',
     //Licences & Certifications
     'LiceCert_1' : 'Licences &',
     'LiceCert_2' : 'Certifications',
